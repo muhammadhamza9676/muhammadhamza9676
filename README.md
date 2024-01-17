@@ -1,4 +1,3 @@
-![logo](https://github.com/muhammadhamza9676/muhammadhamza9676/blob/main/CoverPhoto.png)
 <h1 align="center">Hi 👋, I'm Muhammad Hamzah.</h1>
 <h3 align="center">A passionate full stack web developer.</h3>
 <img align="right" alt="coding" width="428" src="https://camo.githubusercontent.com/2361e682f29dd5165f3a6ee20019ec078041b1577d3280af7c86e53178cdf5da/68747470733a2f2f616d70726f6e2e65752f77702d636f6e74656e742f75706c6f6164732f323031392f30312f636f64652d646576656c6f7065722e676966">
