@@ -11,11 +11,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **React Projects**
+ 🔭 I’m currently working on **MERN Projects**
  
- 🌱 I’m currently learning **Next Js and Typescript**
+ 🌱 I’m currently learning **React Native and Typescript**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://www.linkedin.com/in/muhammadhamza9676)**
+💬 Ask me about **anything [here](https://www.linkedin.com/in/muhammadhamza9676)**
 
 ⚡ Fun fact **It’s all 0’s and 1’s**
 
